@@ -1,0 +1,12 @@
+{
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/koles/ya-csv/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "ya-csv": "^0.10.1",
+    "yelp-fusion": "^2.2.1"
+  }
+}
